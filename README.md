@@ -1,2 +1,3 @@
 # movie-database-system
-Simple movie database system similar toIMDB.
+University 2nd semester 2nd assignment
+Simple movie database system similar to IMDB.
